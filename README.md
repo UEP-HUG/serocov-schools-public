@@ -2,7 +2,7 @@
 
 This repository contains code for the analysis of the SeroCoV-Schools study presented in the manuscript:
 
-Perez-Saez J.$^*$, Bellon M.$^*$, Lessler J., Berthelot J., Hodcroft E., Michielin G., , Pennacchio F, Lamour J., Laubscher F.,L’Huillier A. G., Posfay-Barbe K. M., Maerkl S. J., Guessous I., Azman A. S., Eckerle I.$^\#$, Stringhini S. $^\#$,Lorthe E.$^\#$; for the SEROCoV-Schools study group, *Evolving infectious disease dynamics shape school-based intervention effectiveness*.
+Perez-Saez J.\*, Bellon M.\*, Lessler J., Berthelot J., Hodcroft E., Michielin G., , Pennacchio F, Lamour J., Laubscher F.,L’Huillier A. G., Posfay-Barbe K. M., Maerkl S. J., Guessous I., Azman A. S., Eckerle I.\#, Stringhini S.\#, Lorthe E.\#; for the SEROCoV-Schools study group, *Evolving infectious disease dynamics shape school-based intervention effectiveness*.
 
 ## Data protection
 
